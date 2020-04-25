@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # core-react-redux-state-managment-mvp
 An MVP setup of Redux state managment layer.
 
+# business model reqirements (AC)
+- xxx
+
 ## Available Scripts
 
 In the project directory, you can run:
